@@ -1,0 +1,15 @@
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\OyuncuGiriş.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\OyuncuGiriş.pdb
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\Assembly-CSharp.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\Rocket.API.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\Rocket.Core.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\Rocket.Unturned.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\Steamworks.NET.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\bin\Debug\UnityEngine.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\obj\Debug\OyuncuGiriş.csproj.AssemblyReference.cache
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\obj\Debug\OyuncuGiriş.csproj.CoreCompileInputs.cache
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\obj\Debug\OyuncuGiriş.csproj.CopyComplete
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\obj\Debug\OyuncuGiriş.dll
+C:\Users\Rabiye\source\repos\OyuncuGiriş\OyuncuGiriş\obj\Debug\OyuncuGiriş.pdb
